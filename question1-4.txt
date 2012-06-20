@@ -1,0 +1,22 @@
+Question 1
+a. 2
+b. none
+c. 1
+d. 7
+
+Question 2
+a. 1
+b. 1
+
+Question 3
+2
+4
+6
+8
+10
+
+itrates five times
+
+Question 4
+
+Since condition is false there is no itration
